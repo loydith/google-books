@@ -1,9 +1,28 @@
 
 .jumbotron {
-    background-image: url('/img/summereading.png');
+    background-image: url('/img/article-banner.jpg');
     /* background-color: #ea4335; */
     color: white;
 }
 .navbar {
     border-radius: 0;
+    background: rgb(45, 94, 84);
+    color: white;
   }
+.nav-item{
+    color: white;
+}
+.navbar-nav{
+    color: white;
+
+}
+.navbar-toggler{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+    font-size: 20px;
+}

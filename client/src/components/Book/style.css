@@ -1,7 +1,15 @@
 .btn-container {
     float: right;
+    /* background: rgb(37, 63, 59); */
+    color: white;
   }
-  
+.flex-wrap-reverse{
+  color: rgb(155, 182, 166);
+}
+.btn{
+  background: rgb(37, 63, 59);
+  color: white;
+}
   @media (max-width: 767px) {
     .btn-container {
       margin-bottom: 15px;
