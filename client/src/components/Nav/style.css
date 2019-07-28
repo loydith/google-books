@@ -1,33 +1,9 @@
-.bg-dark {
-    background-color: #4285f4!important;
-}
-
-.navbar-dark .navbar-brand {
-    color: rgba(255,255,255,.9);
-    letter-spacing: 2.5px;
-}
-
-.navbar-dark .navbar-nav .nav-link {
-    color: rgba(255,255,255,.7);
-}
-
-.navbar-dark .navbar-nav .nav-link:hover {
-    color: rgba(255,255,255,.9);
-}
 
 .jumbotron {
-    background-color: #ea4335;
+    background-image: url('/img/summereading.png');
+    /* background-color: #ea4335; */
     color: white;
 }
-
-.display-4 {
-    font-weight: 400;
-}
-
-.navbar-dark .navbar-toggler {
-    border: none;
-}
-
-.navbar-dark .navbar-toggler:focus {
-    outline: none;
-}
+.navbar {
+    border-radius: 0;
+  }
